@@ -6,7 +6,7 @@ import java.util.Queue;
 public class BFS {
 
 	public static void main(String[] args) {
-	BFSNode root = new BFSNode(47,0);
+	BFSNode root = new BFSNode(46,0);
 	BFSNode n1 = new BFSNode(2,1);
 	BFSNode n2 = new BFSNode(1,2);
 	BFSNode n3 = new BFSNode(40,2);
