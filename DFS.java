@@ -5,7 +5,7 @@ import java.util.Stack;
 public class DFS {
 
 	public static void main(String[] args) {
-		DFSNode root = new DFSNode(47);
+		DFSNode root = new DFSNode(46);
 		DFSNode n1 = new DFSNode(2);
 		DFSNode n2 = new DFSNode(1);
 		DFSNode n3 = new DFSNode(40);
